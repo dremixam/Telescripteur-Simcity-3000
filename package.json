@@ -1,7 +1,7 @@
 {
   "name": "Téléscripteur SimCity 3000",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot Twitter qui poste toutes les heures l'une des phrases du téléscripteur de Simcity 3000.",
   "main": "tssc3k.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

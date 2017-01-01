@@ -18,6 +18,6 @@ Et lancer l'appli
 
 Vous pouvez aussi utiliser forever pour que le bot tourne en permanence
 
-> forever tssc3k.js
+> forever start tssc3k.js
 
 
